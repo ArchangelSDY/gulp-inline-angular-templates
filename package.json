@@ -23,16 +23,16 @@
     "gulpplugin angular templates cache"
   ],
   "dependencies": {
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.22.0",
     "event-stream": "^3.1.5",
     "gulp-util": "~2.2.14",
     "lodash": "^2.4.1",
     "through2": "~0.4.1",
-    "vinyl-fs": "^0.1.4",
-    "vinyl-source-stream": "^0.1.1"
+    "vinyl-fs": "^2.4.4",
+    "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
     "mocha": "*",
-    "graceful-fs": "~3.0.2"
+    "graceful-fs": "~4.1.10"
   }
 }
